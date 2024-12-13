@@ -1,6 +1,3 @@
 # Login-Register
-Demonstration of login and Registration \n
-TechStack
-Front end :HTML, Thymeleaf
-Backend :SpringBoot
-Database : Spring Data Jpa, MySQL
+Demonstration of login and Registration using HTML, Thymeleaf, SpringBoot, Spring Data JPA, MySQL
+
